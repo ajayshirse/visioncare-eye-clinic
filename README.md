@@ -14,4 +14,4 @@ Open `index.html` in a browser. Internet access is used for Google Fonts, Lucide
 
 ## Before publishing
 
-Replace the sample phone number, address, email, review, and clinic statistics with real information. The appointment button currently calls the sample phone number; it does not submit a booking form.
+Replace the sample phone number, address, email, review, and clinic statistics with real information. The Book Appointment buttons dial +91 96657 81350 (tel: link). Replace the address, email, review and statistics with real information.
